@@ -1,0 +1,85 @@
+.red {
+    
+    background: red;
+    width: 300px;
+    height: 300px;
+}
+
+.blue {
+    
+    background: blue;
+    width: 300px;
+    height: 300px;
+}
+
+.crack {
+    background: url("images/crack-egg.svg");
+    width: 30%;
+    height: 50%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+
+.yolk {
+    background: url("images/yolk.svg");
+    background-repeat: no-repeat;
+}
+
+div.transition {
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Safari */
+    transform: rotate(45deg); /* Standard syntax */
+}
+
+.trans-container {
+    position: absolute;
+    bottom: -60px;
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.transition {
+    z-index: 10;
+    width: 30px;
+    height: 30px;
+    background: #f4df42;
+    position: relative;
+    top: 130px;
+    float: left;
+}
+
+
+
+#plate {
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+}
+
+
+
+.circle {
+    border-radius: 50%;
+    width: 800px;
+    height: 800px;
+    background: #fff;
+    margin: 10px;
+    float: left;
+}
+
+.container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+     margin: 0 auto;
+}
+
+body {
+    overflow: hidden;
+    background: #89cff0;
+}

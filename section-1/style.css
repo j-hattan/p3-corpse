@@ -1,0 +1,75 @@
+.egg-6 {
+    background: url("images/egg.svg");
+    width: 25%;
+    height: 49%;
+    float: left;
+    background-repeat: no-repeat;
+    margin: 10px;
+}
+
+.egg-5 {
+    background: url("images/egg.svg");
+    width: 25%;
+    height: 49%;
+    float: left;
+    background-repeat: no-repeat;
+    margin: 10px;
+}
+
+.egg-4 {
+    background: url("images/egg.svg");
+    width: 25%;
+    height: 49%;
+    float: left;
+    background-repeat: no-repeat;
+    margin: 10px;
+}
+
+.egg-3 {
+    background: url("images/egg.svg");
+    width: 25%;
+    height: 49%;
+    float: left;
+    background-repeat: no-repeat;
+    margin: 10px;
+}
+
+.egg-2 {
+    background: url("images/egg.svg");
+    width: 25%;
+    height: 49%;
+    float: left;
+    background-repeat: no-repeat;
+    margin: 10px;
+}
+
+.egg {
+    background: url("images/egg.svg");
+    width: 25%;
+    height: 49%;
+    float: left;
+    background-repeat: no-repeat;
+    margin: 10px;
+}
+
+.crack {
+    background: url("images/crack-egg.svg");
+    width: 31%;
+    height: 30%;
+    float: left;
+    background-repeat: no-repeat;
+}
+
+.container {
+    position: relative;
+    left: 0px;
+    top: 50px;
+    width: 65%;
+    height: 620px;
+    margin: 0 auto;
+}
+
+body {
+    overflow: hidden;
+    background: #89cff0;
+}
